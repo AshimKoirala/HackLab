@@ -73,7 +73,7 @@ it works   safely   fix
 
 ## 🌐 Live Demo
 
-
+Link: https://ashimkoirala.github.io/HackLab/
 
 **Quickstart (local):** Download `index.html` → double-click it → open in any modern browser. Done.
 
